@@ -67,5 +67,6 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "VRFarm.slnx"
+    "dotnet.defaultSolution": "VRFarm.slnx",
+    "cSpell.enabled": true
 }
